@@ -6,9 +6,12 @@ This public repository is the coordination and documentation entry point for the
 
 ## Documentation
 
+- [Documentation hub](docs/README.md)
 - [Product map](docs/PRODUCTS.md)
 - [Architecture](docs/ARCHITECTURE.md)
 - [Integration contracts](docs/INTEGRATION_CONTRACTS.md)
+- [Public documentation policy](docs/PUBLICATION_POLICY.md)
+- [Product owner pages](docs/products/README.md)
 
 ## Principles
 
@@ -32,7 +35,7 @@ The SKLO Media direction currently includes independent products/modules and dev
 - SKLO Image Analysis
 - SKLO Photo Enhancement
 
-Some names and boundaries may still evolve as the architecture matures.
+Product-specific pages are intentionally maintained by their own product owners.
 
 ## Repository role
 
@@ -41,6 +44,7 @@ This repository is currently intended for:
 - public project overview;
 - shared architecture notes that are safe to publish;
 - cross-product interface documentation;
+- owner-maintained product pages;
 - public examples and reference material when they are ready.
 
 It is **not** currently the canonical source repository for all SKLO Media products.
