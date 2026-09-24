@@ -1,0 +1,48 @@
+# SKLO Media
+
+**SKLO Media** is the modular media direction of the SKLO family.
+
+This public repository is the coordination and documentation entry point for the SKLO Media ecosystem. It does **not** mean that every SKLO Media product shares one codebase, one database, one runtime, or one release line.
+
+## Principles
+
+- products and modules may evolve independently;
+- each product keeps its own ownership and acceptance;
+- integrations are defined through explicit contracts;
+- shared capabilities are not assumed automatically;
+- code, repositories, databases, and runtimes remain product-specific unless a separate decision changes that;
+- public materials must not contain secrets or unnecessary private media/data.
+
+## Current ecosystem
+
+The SKLO Media direction currently includes independent products/modules and developing capabilities such as:
+
+- SKLO Atlas
+- MediaAudit
+- MediaOrder / МедіаПорядок
+- SKLO FmediaDB
+- SKLO Scenario Matching
+- SKLO Transcript & Subtitles
+- SKLO Image Analysis
+- SKLO Photo Enhancement
+
+Some names and boundaries may still evolve as the architecture matures.
+
+## Repository role
+
+This repository is currently intended for:
+
+- public project overview;
+- shared architecture notes that are safe to publish;
+- cross-product interface documentation;
+- public examples and reference material when they are ready.
+
+It is **not** currently the canonical source repository for all SKLO Media products.
+
+## Status
+
+Early public project space. Product-specific repositories and documentation may be added or linked as they become ready for public use.
+
+## License
+
+No license has been selected for this repository yet.
