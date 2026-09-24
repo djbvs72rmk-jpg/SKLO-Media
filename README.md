@@ -4,6 +4,12 @@
 
 This public repository is the coordination and documentation entry point for the SKLO Media ecosystem. It does **not** mean that every SKLO Media product shares one codebase, one database, one runtime, or one release line.
 
+## Documentation
+
+- [Product map](docs/PRODUCTS.md)
+- [Architecture](docs/ARCHITECTURE.md)
+- [Integration contracts](docs/INTEGRATION_CONTRACTS.md)
+
 ## Principles
 
 - products and modules may evolve independently;
