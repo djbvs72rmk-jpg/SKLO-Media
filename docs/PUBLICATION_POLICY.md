@@ -63,3 +63,19 @@ Internal implementation files are not public contracts by default.
 Product pages under `docs/products/` are intentionally owner-maintained.
 
 A placeholder page means the page location exists; it does not mean all product information is public or frozen.
+
+## Licensing
+
+Except where otherwise stated, documentation and other non-code content in this repository are licensed under **Creative Commons Attribution 4.0 International (CC BY 4.0)**.
+
+The governing repository notice is [LICENSE-DOCS.md](../LICENSE-DOCS.md).
+
+This documentation license does not automatically apply to:
+- source code in product-specific repositories;
+- binaries, models, datasets, media assets, or third-party materials;
+- trademarks, logos, or brand identifiers;
+- material with its own explicit license or copyright notice.
+
+Each product owner is responsible for selecting and publishing the license, if any, for that product's code and other product-specific artifacts.
+
+Do not infer a software license from the SKLO Media documentation license.
