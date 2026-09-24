@@ -55,4 +55,8 @@ Early public project space. Product-specific repositories and documentation may 
 
 ## License
 
-No license has been selected for this repository yet.
+Except where otherwise stated, the documentation and other non-code content in this repository are licensed under **Creative Commons Attribution 4.0 International (CC BY 4.0)**.
+
+See [LICENSE-DOCS.md](LICENSE-DOCS.md).
+
+Product source code and product-specific repositories may use different licenses selected by their respective owners.
