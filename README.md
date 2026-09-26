@@ -1,62 +1,53 @@
+<div align="center">
+
 # SKLO Media
 
-**SKLO Media** is the modular media direction of the SKLO family.
+**Незалежні медіаінструменти. Спільне сімейство.**
 
-This public repository is the coordination and documentation entry point for the SKLO Media ecosystem. It does **not** mean that every SKLO Media product shares one codebase, one database, one runtime, or one release line.
+[Сайт](https://djbvs72rmk-jpg.github.io/SKLO-Media/) · [Продукти](docs/PRODUCTS.md) · [Документація](docs/README.md) · [English](README.en.md)
 
-## Documentation
+</div>
 
-- [Documentation hub](docs/README.md)
-- [Product map](docs/PRODUCTS.md)
-- [Architecture](docs/ARCHITECTURE.md)
-- [Integration contracts](docs/INTEGRATION_CONTRACTS.md)
-- [Public documentation policy](docs/PUBLICATION_POLICY.md)
-- [Product owner pages](docs/products/README.md)
+---
 
-## Principles
+**SKLO** — загальний бренд. **Media** — сімейство продуктів для роботи з медіа. **Призма**, **Атлас** та **МедіаПорядок** — окремі продукти зі своїми завданнями й розвитком.
 
-- products and modules may evolve independently;
-- each product keeps its own ownership and acceptance;
-- integrations are defined through explicit contracts;
-- shared capabilities are not assumed automatically;
-- code, repositories, databases, and runtimes remain product-specific unless a separate decision changes that;
-- public materials must not contain secrets or unnecessary private media/data.
+Це спільний простір описів, документації та інтеграцій. Він не об’єднує всі продукти в одну програму, базу даних, репозиторій або сервер.
 
-## Current ecosystem
+## Продукти
 
-The SKLO Media direction currently includes independent products/modules and developing capabilities such as:
+| Продукт | Призначення | Публічна інформація |
+|---|---|---|
+| **[Призма / Pryzma](https://djbvs72rmk-jpg.github.io/SKLO-Media/mediaaudit/)** | Аналіз відео й аудіо, мовлення та перевірка якості. Раніше — MediaAudit ToolKit. | [Докладний опис](docs/products/MEDIAAUDIT.md) |
+| **[Атлас / SKLO Atlas](docs/products/SKLO_ATLAS.md)** | Визначення, назви й упорядкування медіа; контрольовані файлові операції. | Докладний опис готується. |
+| **[МедіаПорядок / MediaOrder](docs/products/MEDIAORDER.md)** | Робота з медіапроєктами автора та координація спеціалізованих інструментів. | Докладний опис готується. |
 
-- SKLO Atlas
-- MediaAudit
-- MediaOrder / МедіаПорядок
-- SKLO FmediaDB
-- SKLO Scenario Matching
-- SKLO Transcript & Subtitles
-- SKLO Image Analysis
-- SKLO Photo Enhancement
+Інші напрями: [FmediaDB](docs/products/SKLO_FMEDIADB.md), [зіставлення зі сценарієм](docs/products/SKLO_SCENARIO_MATCHING.md), [транскрипція й субтитри](docs/products/SKLO_TRANSCRIPT_SUBTITLES.md), [аналіз зображень](docs/products/SKLO_IMAGE_ANALYSIS.md), [покращення фото](docs/products/SKLO_PHOTO_ENHANCEMENT.md).
 
-Product-specific pages are intentionally maintained by their own product owners.
+> Наявність продукту в цій карті не означає, що вже опубліковано його код, інсталяційний пакет або стабільний API. Стан і межі описуються на сторінці кожного продукту.
 
-## Repository role
+## Як побудоване сімейство
 
-This repository is currently intended for:
+**Незалежність.** Кожен продукт зберігає власний розвиток, відповідальність і випуски.
 
-- public project overview;
-- shared architecture notes that are safe to publish;
-- cross-product interface documentation;
-- owner-maintained product pages;
-- public examples and reference material when they are ready.
+**Взаємодія через контракти.** Обмін результатами не означає злиття репозиторіїв, баз даних чи середовищ виконання.
 
-It is **not** currently the canonical source repository for all SKLO Media products.
+**Прозорі межі.** Плани не видаються за готові можливості. Приватні дані, медіа й секрети не публікуються.
 
-## Status
+## Документація
 
-Early public project space. Product-specific repositories and documentation may be added or linked as they become ready for public use.
+[Центр документації](docs/README.md) · [Карта продуктів](docs/PRODUCTS.md) · [Архітектура](docs/ARCHITECTURE.md) · [Контракти інтеграцій](docs/INTEGRATION_CONTRACTS.md) · [Правила публікації](docs/PUBLICATION_POLICY.md)
 
-## License
+Докладні продуктові сторінки підтримуються відповідальними за ці продукти. Цей репозиторій не є єдиним канонічним сховищем коду всього сімейства.
 
-Except where otherwise stated, the documentation and other non-code content in this repository are licensed under **Creative Commons Attribution 4.0 International (CC BY 4.0)**.
+## Чинні інтеграції
 
-See [LICENSE-DOCS.md](LICENSE-DOCS.md).
+[MediaAudit rclone / Призма](https://djbvs72rmk-jpg.github.io/SKLO-Media/mediaaudit/#integration) · [Політика приватності](https://djbvs72rmk-jpg.github.io/SKLO-Media/mediaaudit/privacy.html)
 
-Product source code and product-specific repositories may use different licenses selected by their respective owners.
+Нова публічна назва Призма / Pryzma не змінює історичні адреси, назву OAuth-застосунку чи його дозволи.
+
+## Ліцензування
+
+Документація й інші матеріали цього репозиторію, що не є кодом, за відсутності окремої вказівки поширюються за **CC BY 4.0**. Див. [LICENSE-DOCS.md](LICENSE-DOCS.md).
+
+Ліцензія документації не визначає ліцензій коду продуктів, моделей, медіа чи сторонніх матеріалів. Умови для них публікуються окремо.
