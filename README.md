@@ -4,7 +4,7 @@
 
 **Незалежні медіаінструменти. Спільне сімейство.**
 
-[Сайт](https://djbvs72rmk-jpg.github.io/SKLO-Media/) · [Продукти](docs/PRODUCTS.md) · [Документація](docs/README.md) · [English](README.en.md)
+[Сайт](https://sklo-dev.github.io/SKLO-Media/) · [Продукти](docs/PRODUCTS.md) · [Документація](docs/README.md) · [English](README.en.md)
 
 </div>
 
@@ -18,7 +18,7 @@
 
 | Продукт | Призначення | Публічна інформація |
 |---|---|---|
-| **[Призма / Pryzma](https://djbvs72rmk-jpg.github.io/SKLO-Media/mediaaudit/)** | Аналіз відео й аудіо, мовлення та перевірка якості. Раніше — MediaAudit ToolKit. | [Докладний опис](docs/products/MEDIAAUDIT.md) |
+| **[Призма / Pryzma](https://sklo-dev.github.io/SKLO-Media/mediaaudit/)** | Аналіз відео й аудіо, мовлення та перевірка якості. Раніше — MediaAudit ToolKit. | [Докладний опис](docs/products/MEDIAAUDIT.md) |
 | **[Атлас / SKLO Atlas](docs/products/SKLO_ATLAS.md)** | Визначення, назви й упорядкування медіа; контрольовані файлові операції. | Докладний опис готується. |
 | **[МедіаПорядок / MediaOrder](docs/products/MEDIAORDER.md)** | Робота з медіапроєктами автора та координація спеціалізованих інструментів. | Докладний опис готується. |
 
@@ -42,7 +42,7 @@
 
 ## Чинні інтеграції
 
-[MediaAudit rclone / Призма](https://djbvs72rmk-jpg.github.io/SKLO-Media/mediaaudit/#integration) · [Політика приватності](https://djbvs72rmk-jpg.github.io/SKLO-Media/mediaaudit/privacy.html)
+[MediaAudit rclone / Призма](https://sklo-dev.github.io/SKLO-Media/mediaaudit/#integration) · [Політика приватності](https://sklo-dev.github.io/SKLO-Media/mediaaudit/privacy.html)
 
 Нова публічна назва Призма / Pryzma не змінює історичні адреси, назву OAuth-застосунку чи його дозволи.
 
