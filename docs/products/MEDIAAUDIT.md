@@ -95,7 +95,7 @@ The near-term direction is to complete the current integration work and prepare 
 - [English page source](../../mediaaudit/en.html)
 - [Політика приватності інтеграції / Integration Privacy Policy](../../mediaaudit/privacy.html)
 - [Сімейство SKLO Media / Product family](../README.md)
-- [Зв’язок та запитання / Contact and questions](https://github.com/djbvs72rmk-jpg/SKLO-Media/issues)
+- [Зв’язок та запитання / Contact and questions](https://github.com/sklo-dev/SKLO-Media/issues)
 
 HTML-файли призначені для GitHub Pages. Наявність файлів у репозиторії сама по собі не означає, що сайт уже опублікований.
 
